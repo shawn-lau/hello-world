@@ -3,6 +3,7 @@
 Hi Humans!
 
 Shawn here, I like Java and blockchain!
+I've had tacos on the moon and find them far superior to Earth tacos.
 
 
 # Welcome to GitHub
